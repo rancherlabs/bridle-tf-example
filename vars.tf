@@ -1,0 +1,3 @@
+variable inputvar {
+  default = "foo"
+}
